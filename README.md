@@ -1,6 +1,6 @@
 <!--
  * @Author       : JonnyZhang 71881972+jonnyzhang02@users.noreply.github.com
- * @LastEditTime : 2023-07-25 11:33
+ * @LastEditTime : 2023-07-25 14:39
  * @FilePath     : \d2l-zh-pytorch\README.md
  * 
  * coded by ZhangYang@BUPT, my email is zhangynag0207@bupt.edu.cn
@@ -18,4 +18,6 @@
 ## [chapter_5_convolutional-neural-networks-卷积神经网络](./chapters/chapter_convolutional-neural-networks/.md)  
 
 ## [chapter_6_modern_convolutional-networks-现代卷积神经网络](./chapters/chapter_convolutional-modern/.md)
+
+## [chapter_7_computational-performance-计算性能](./chapters/chapter_computational-performance/.md)
 
