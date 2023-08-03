@@ -23,3 +23,4 @@
 
 ## [chapter_8_computer-vision-计算机视觉](./chapters/chapter_computer-vision/.md)
 
+## [chapter_9_recurrent-neural-networks-循环神经网络](./chapters/chapter_recurrent-neural-networks/.md)
